@@ -1,4 +1,4 @@
-# Potoki_chisel
+# Potoki_chisel_server
 using System;
 using System.IO;
 using System.IO.Pipes;
